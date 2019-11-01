@@ -4,7 +4,7 @@
             var lettersGuessed = null; // Will be initialized in gameInit()
             var randomLetterCode = null; // Will be initialized in gameInit()
 
-            var letterCodeMin = 65; // letter "a" Hi
+            var letterCodeMin = 65; // letter "a" Hi Testing
             var letterCodeMax = 90; // letter "z"
 
             document.onkeyup = function(e) {
